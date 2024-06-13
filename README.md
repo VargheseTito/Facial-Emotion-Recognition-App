@@ -1,7 +1,7 @@
 # Facial-Emotion-Recognition-App
 Facial Emotion Recognition Using Deep Learning
 
-                 ![image](https://github.com/VargheseTito/Facial-Emotion-Recognition-App/assets/110298267/01e92a56-0d01-4b40-a5ff-767faae43b50)
+![image](https://github.com/VargheseTito/Facial-Emotion-Recognition-App/assets/110298267/01e92a56-0d01-4b40-a5ff-767faae43b50)
 
 
 DeepFER: Facial Emotion Recognition Using Deep Learning aims to develop a robust and efficient system for recognizing emotions from facial expressions using advanced deep learning techniques. This project leverages Convolutional Neural Networks (CNNs) and Transfer Learning to accurately classify emotions such as happiness, sadness, anger, surprise, and more from images of human faces. The system will be trained on a diverse dataset of facial images, employing data augmentation and fine-tuning methods to enhance its performance. By integrating state-of-the-art computer vision algorithms and neural network architectures, DeepFER seeks to achieve high accuracy and real-time processing capabilities. The ultimate goal is to create a versatile tool that can be applied in various fields, including human-computer interaction, mental health monitoring, and customer service, enhancing the way machines understand and respond to human emotions.
